@@ -1,8 +1,7 @@
-# 
-py -3 -m venv venv
-venv\Scripts\activate
 
-pip install Flask 
-pip list
+> py -3 -m venv venv
+> venv\Scripts\activate
 
-pip freeze > requirements.txt
+> pip install Flask 
+>pip list
+
