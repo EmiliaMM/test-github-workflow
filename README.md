@@ -1,2 +1,8 @@
-# test-github-workflow
-Lista nr 1 - 8.05.2022
+# 
+py -3 -m venv venv
+venv\Scripts\activate
+
+pip install Flask 
+pip list
+
+pip freeze > requirements.txt
